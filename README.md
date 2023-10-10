@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on 3D open world game [Mission: Zero Hour](https://github.com/eroxion/Project-Exhibition-I)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning [**Data Structures and Algorithms**](https://github.com/RAMESH2727/Data-Structures-and-Algorithms)
 
 - 🤝 I’m looking for help with [Unreal Engine Development](https://github.com/eroxion/Project-Exhibition-I)
 
