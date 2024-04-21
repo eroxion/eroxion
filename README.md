@@ -7,13 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/eroxion_music" target="blank"><img src="https://img.shields.io/twitter/follow/eroxion_music?logo=twitter&style=for-the-badge" alt="eroxion_music" /></a> </p>
 
-- 🔭 I’m currently working on [**HART Team Portal**](https://github.com/eroxion/Team-Portal/tree/mainhttps)
-
-- 🌱 I’m currently learning [**Data Structures and Algorithms**](https://github.com/RAMESH2727/Data-Structures-and-Algorithms)
-
-- 🤝 I’m looking for help with [Unreal Engine Development](https://github.com/eroxion/Project-Exhibition-I)
-
-- 💬 Ask me about **FL Studio**
 
 - 📫 How to reach me **anusheelsoni4@gmail.com**
 
